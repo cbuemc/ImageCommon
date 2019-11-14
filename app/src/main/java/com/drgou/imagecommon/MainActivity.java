@@ -19,6 +19,5 @@ public class MainActivity extends AppCompatActivity {
 
         ImgCommon.setImg(imageView, "http://images.baixingliangfan.cn/homeFloor/20180407/20180407181423_15.jpg");
 
-
     }
 }
